@@ -67,7 +67,7 @@ class ViewController: UIViewController {
         }
         
     }
-    //5D5033AB-D1AB-4C88-BFB4-D597EA105121
+ 
     //アンアーカイブボタン押下時
     @IBAction func respondToUnarchveButton(sender: AnyObject) {
 //        let paths = NSSearchPathForDirectoriesInDomains(.DocumentDirectory, .UserDomainMask, true) as Array<String>
@@ -84,7 +84,7 @@ class ViewController: UIViewController {
         
         //ファイルに保存された自作クラスのオブジェクトを復元する
         let paths = NSSearchPathForDirectoriesInDomains(.DocumentDirectory, .UserDomainMask, true)
-        //階層してい
+        //階層の指定
         let filePath = String(paths[0]) + "/data.plist"
         //アンアーカイブ
         let array = NSKeyedUnarchiver.unarchiveObjectWithFile(filePath) as? Array<Person>
