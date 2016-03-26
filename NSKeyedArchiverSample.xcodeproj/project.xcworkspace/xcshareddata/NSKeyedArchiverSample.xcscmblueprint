@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E1C1C0E415FDAB5957D5960BD33A0B465D0FCE3F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E1C1C0E415FDAB5957D5960BD33A0B465D0FCE3F" : 0,
+    "E1EDA6508A2DF0475993B7DAC8E7BA3C8285240B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "042D567B-DCA0-40E9-B145-8A808232F7F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E1C1C0E415FDAB5957D5960BD33A0B465D0FCE3F" : "NSKeyedArchiver\/",
+    "E1EDA6508A2DF0475993B7DAC8E7BA3C8285240B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NSKeyedArchiverSample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NSKeyedArchiverSample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Kimisira\/NSKeyedArchiver.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E1C1C0E415FDAB5957D5960BD33A0B465D0FCE3F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Kimisira\/Swift-Sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E1EDA6508A2DF0475993B7DAC8E7BA3C8285240B"
+    }
+  ]
+}
